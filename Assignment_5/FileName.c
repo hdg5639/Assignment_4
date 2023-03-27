@@ -39,6 +39,6 @@ int main() {
         printf("%d ", C[i]);
     }
     printf("\n");
-
+    system("pause");
     return 0;
 }
